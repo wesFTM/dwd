@@ -10,7 +10,7 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: "Darnell White Design",
-  description: "",
+  description: "Transforming spaces and brands through interior design, photo, video, and motion graphics",
 };
 
 export default function RootLayout({
