@@ -9,13 +9,8 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-<<<<<<< HEAD
-  title: "Aitch NYC",
-  description: "Licensed Real Estate Agents",
-=======
   title: "Darnell White Design",
   description: "Transforming spaces and brands through interior design, photo, video, and motion graphics",
->>>>>>> refs/remotes/origin/main
 };
 
 export default function RootLayout({
