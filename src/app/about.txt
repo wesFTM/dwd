@@ -1,6 +1,12 @@
 This favicon was generated using the following font:
 
+<<<<<<< HEAD
 - Font Title: Bebas Neue
 - Font Author: undefined
 - Font Source: https://fonts.gstatic.com/s/bebasneue/v15/JTUSjIg69CK48gW7PXooxW5rygbi49c.ttf
+=======
+- Font Title: Montserrat
+- Font Author: undefined
+- Font Source: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-Y3tcoqK5.ttf
+>>>>>>> refs/remotes/origin/main
 - Font License: undefined)
